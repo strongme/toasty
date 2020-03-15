@@ -1,0 +1,25 @@
+{
+  "name": "cn.strongme.cordova.plugin.toasty",
+  "version": "0.0.1",
+  "description": "Demo Cordova Plugin Toasty",
+  "cordova": {
+    "id": "cn.strongme.cordova.plugin.toasty",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/strongme/toasty.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "strongme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strongme/toasty/issues"
+  },
+  "homepage": "https://github.com/strongme/toasty#readme"
+}
